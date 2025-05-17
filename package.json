@@ -10,8 +10,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@turf/turf": "^7.2.0",
+    "leaflet": "^1.9.4",
     "react": "^19.1.0",
-    "react-dom": "^19.1.0"
+    "react-dom": "^19.1.0",
+    "react-leaflet": "^5.0.0",
+    "react-select": "^5.10.1"
   },
   "devDependencies": {
     "@eslint/js": "^9.25.0",
